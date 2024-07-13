@@ -1,1 +1,1 @@
-# Codsoft_task1
+This repository contains the 1st project that I have been working on during my internship with codsoft.In this project I built a machine learning model that predicts whether a passenger on the Titanic survived or not and achieved an accuracy of about 80%. The dataset contains information about individual passengers such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
